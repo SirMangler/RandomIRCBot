@@ -1,0 +1,5 @@
+:print
+print ":%text:" to the :%target;
+print :%text: to the :%target;
+print ":%text:" to :%target;
+print :%text: to :%target;
